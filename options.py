@@ -1,4 +1,5 @@
 def main():
+    options = (('y', 'yes'), ('n', 'no'))
     # write your code here
 
     
